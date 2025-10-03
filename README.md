@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning Enthusiast<br>Open Source ML & Web Development projects<br>Advanced DSA and System Design concepts<br>Distributed Systems, Parallel Algorithms, and Advanced Java<br>Python, C++, Machine Learning, and Web Development<br>I’ve solved coding problems daily for over 440 days!
+Machine Learning Enthusiast<br>Open Source ML & Web Development projects<br>Advanced DSA and System Design concepts<br>Distributed Systems, Parallel Algorithms, and Advanced Java<br>Python, C++, Machine Learning, and Web Development<br>
 
 
 ## 🌐 Socials:
